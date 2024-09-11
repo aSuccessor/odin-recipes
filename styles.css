@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 217, 179);
+    font-family: Verdana, "Times New Roman", sans-serif;
+}
+
+.darkBox {
+    background-color: rgb(241, 197, 153);
+}
+
+.lightBox {
+    background-color: rgb(255, 233, 213);
+}
+
+h1 {
+    color: rgb(66, 27, 8)
+}
